@@ -26,7 +26,7 @@ All levels are constructed from modular components created in **Blender** and im
 - Consistent visual language
 - Easy expansion for future levels
 
-![Modular Components](images/modular_components.jpg)
+![Modular Components](images/WallPortal.PNG)
 
 ---
 
@@ -44,7 +44,7 @@ All levels are constructed from modular components created in **Blender** and im
 
 | Door Prefab | Puzzle Room |
 |----------|-------------|
-| ![Main Menu](images/door_prefab.PNG) | ![Puzzle](images/puzzle_room.PNG) |
+| ![Door Prefab](images/door_prefab.PNG) | ![Puzzle](images/puzzle_room.PNG) |
 
 > You can find more in the `/images` folder.
 
@@ -68,7 +68,7 @@ public class PuzzleActivator : MonoBehaviour
         }
     }
 }
-
+```
 
 ### Explanation
 
