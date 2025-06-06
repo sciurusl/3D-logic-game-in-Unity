@@ -129,7 +129,7 @@ This game was developed as part of my Bachelor's thesis and covers:
 **Lucie Veverková**  
 🎓 Czech Technical University in Prague  
 📧 veverkova.lucie1@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+🔗 [LinkedIn](https://www.linkedin.com/in/lucie-veverkova/)
 
 ---
 
